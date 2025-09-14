@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Yuki! 🌸✨
 
-<!--
-**yuki1024imokenp/yuki1024imokenp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **student** and **developer** who loves learning by building—sometimes creating things that might seem a little quirky, but always teach me something new!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Python** 🐍
+- **Node.js** 🌱
+- **Java** ☕
+
+---
+
+## 🌷 About Me
+
+I enjoy turning ideas (even the silly ones!) into code and projects, because every experiment is a step towards growth.  
+My motto: _"I create things that might be a bit useless, but they're always useful for learning!"_  
+I'm passionate about technology, creativity, and making every day a chance to improve.
+
+---
+
+## 📚 Currently Learning
+
+- New languages & frameworks
+- Building real-world projects
+
+---
+
+## 🌐 Let’s Connect!
+
+- Personal website: [yukibio.vercel.app](https://yukibio.vercel.app/)
+
+---
+
+_Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me!_
